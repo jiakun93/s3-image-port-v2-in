@@ -6,8 +6,8 @@
   },
   "index": {
     "slogan": "<normal>您在 S3 中的<br></br>图片管家</normal>",
-    "description": "轻松上传、查看和删除 S3 中的图片",
-    "compatibility": "同时兼容多种 S3 兼容服务",
+    "description": "轻松上传、查看和删除S3中的图片。同时兼容多种S3服务",
+    "compatibility": "该项目使用 Intent™ 免费域名，几秒钟内应用于项目、博客和实验",
     "getStarted": "开始使用",
     "readDocs": "阅读文档"
   },
