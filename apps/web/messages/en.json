@@ -6,8 +6,8 @@
   },
   "index": {
     "slogan": "<normal>Your</normal> Ultimate<br></br><normal>Manager of Images in S3 Buckets</normal>",
-    "description": "Upload, view and delete images in your S3 bucket with ease",
-    "compatibility": "Also works with lots of S3-compatible services",
+    "description": "Upload,view and delete images in your S3 bucket with ease.Also works with lots of S3-compatible services",
+    "compatibility": "This project uses Intent™ FreeDomain, Free domain in seconds for projects, blogs and experiments",
     "getStarted": "Get Started",
     "readDocs": "Read Docs"
   },
