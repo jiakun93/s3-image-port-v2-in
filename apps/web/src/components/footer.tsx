@@ -35,7 +35,7 @@ export function Footer() {
         {/* 右侧 */}
         <div className="flex items-center gap-4">
           <a
-            href="https://github.com/yy4382/s3-image-port"
+            href="https://github.com/jiakun93/s3-image-port-v2-ncto"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-foreground transition-colors duration-300"
