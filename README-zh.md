@@ -34,14 +34,14 @@ S3 Image Port 是一个控制面板，用于管理 AWS S3 存储桶或 S3 兼容
 
 ## 使用方法
 
-在使用本面板前，请在 “设置” 选项卡中配置您的 S3 存储桶设置。更详细的指引，请参考我们的 [入门文档](https://docs.imageport.app/zh/guide/getting-started)。
+在使用本面板前，请在 “设置” 选项卡中配置您的 S3 存储桶设置。更详细的指引，请参考对应的入门文档。
 
-关于获取 S3 相关密钥，请参考存储服务提供商的文档。如果您使用的是 Cloudflare R2 Storage，可以查看文档站的 [Cloudflare R2 逐步指南](https://docs.imageport.app/zh/guide/for-cloudflare-r2)。
+关于获取 S3 相关密钥，请参考存储服务提供商的文档。如果您使用的是 Cloudflare R2 Storage，可以查看文档站的 Cloudflare R2 逐步指南。
 
 您也可以在一定程度上自定义此应用面板。进入 "设置 "页面，您可以配置一些重要选项。
 
 ## 反馈和贡献
 
-如果您遇到任何问题或有任何建议，请随时提出 [Issue](https://github.com/yy4382/s3-image-port/issues/new/choose)。
+如果您遇到任何问题或有任何建议，请随时提出 Issue。
 
-如果您有关于新功能的想法，也可以创建一个 [Issue](https://github.com/yy4382/s3-image-port/issues/new/choose)，任何想法都不会太牵强！
+如果您有关于新功能的想法，也可以创建一个 Issue，任何想法都不会太牵强！
