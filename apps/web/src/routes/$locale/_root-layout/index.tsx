@@ -59,7 +59,7 @@ function RouteComponent() {
                   {t("readDocs")}
                 </Link>
               </div>
-              <GitHubStarsButton username="heakvn" repo="s3-image-port-in" />
+              <GitHubStarsButton username="heakvn" repo="s3-image-port-v2-in" />
             </div>
           </div>
         </div>
