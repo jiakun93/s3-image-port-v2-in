@@ -83,7 +83,7 @@ const Header: React.FC = () => {
 
           <a
             target="_blank"
-            href="https://github.com/jiakun93/s3-image-port-v2-in"
+            href="https://github.com/heakvn/s3-image-port-v2-in"
             className={buttonVariants({ size: "icon", variant: "ghost" })}
             aria-label="GitHub Repository"
           >
