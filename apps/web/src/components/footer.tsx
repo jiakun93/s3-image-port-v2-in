@@ -13,21 +13,21 @@ export function Footer() {
 
         {/* 中间：Intent  按钮 */}
         <a
-          href="https://int.yt"
+          href="https://domain.stackryze.com"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-3 px-3 py-2 border border-gray-200 rounded-xl bg-white text-gray-900 no-underline text-[13px] leading-tight shadow-sm hover:shadow-md transition"
         >
           <span className="inline-flex items-center justify-center px-2 py-1 rounded-full bg-blue-50 text-blue-700 text-[11px] font-semibold uppercase tracking-wide">
-            Intent™ 
+            Stackryze
           </span>
 
           <span className="flex flex-col">
             <span className="font-semibold">
-              This Website is Powered by Intent FreeDomain
+              This Website is Powered by Stackryze Domains
             </span>
             <span className="text-gray-500 text-xs">
-              intent™ — A Non-Profit | Free Subdomains
+              Made for the world,by Indians.100% Open Source and cost-free. No strings attached
             </span>
           </span>
         </a>
@@ -35,7 +35,7 @@ export function Footer() {
         {/* 右侧 */}
         <div className="flex items-center gap-4">
           <a
-            href="https://github.com/jiakun93/s3-image-port-v2-ncto"
+            href="https://github.com/heakvn/s3-image-port-v2-in"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-foreground transition-colors duration-300"
@@ -43,7 +43,7 @@ export function Footer() {
             GitHub
           </a>
           <a
-            href="https://yfi.moe"
+            href="https://ous.us.to"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-foreground transition-colors duration-300"
