@@ -22,7 +22,7 @@ export function baseOptions(locale: string): BaseLayoutProps {
         </>
       ),
     },
-    githubUrl: "https://github.com/yy4382/s3-image-port",
+    githubUrl: "https://github.com/heakvn/s3-image-port-v2-in",
     links: [
       {
         on: "nav",
