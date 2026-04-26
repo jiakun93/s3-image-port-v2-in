@@ -8,7 +8,7 @@ S3 Image Port is a control panel for managing images in your AWS S3 buckets or a
 
 The panel itself is stateless and doesn't store any of your data.
 
-Start using at <https://imageport.app>!
+  Start using at website!
 
 ## Features
 
@@ -27,14 +27,14 @@ S3 Image Port is not an image hosting service in the traditional sense. A typica
 
 ## Usage
 
-Before using the application, you need to configure your S3 settings. For a detailed guide, please refer to our [Getting Started documentation](https://docs.imageport.app/guide/getting-started).
+Before using the application, you need to configure your S3 settings. For a detailed guide, please refer to our Getting Started documentation.
 
-For obtaining S3 related keys, please refer to the documentation of your storage service provider. If you are using Cloudflare R2 Storage, you can check out the [Step-By-Step Guide for Cloudflare R2](https://docs.imageport.app/guide/for-cloudflare-r2).
+For obtaining S3 related keys, please refer to the documentation of your storage service provider. If you are using Cloudflare R2 Storage, you can check out the Step-By-Step Guide for Cloudflare R2.
 
 You can also customize this application to a certain extent. Go to the `Settings` page and you can configure some important options.
 
 ## Feedback and Contributions
 
-Feel free to raise an [Issue](https://github.com/yy4382/s3-image-port/issues/new/choose) if you encounter any problems or have suggestions.
+Feel free to raise an Issue if you encounter any problems or have suggestions.
 
-If you have ideas for new features, don’t hesitate to create an [Issue](https://github.com/yy4382/s3-image-port/issues/new/choose)for those as well—no idea is too far-fetched!
+If you have ideas for new features, don’t hesitate to create an Issue for those as well—no idea is too far-fetched!
